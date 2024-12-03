@@ -1,4 +1,4 @@
-# JWTWebAPIAndSwagger
+# JWT Web API And Swagger
 Simple JWT Authentication using ASP.NET Core Web API
 
 DEC 3, 2024
@@ -21,7 +21,7 @@ MD5 Hash generator online tool
       This part configures the swagger generation for your application and specifies the title 
       to be provided for the API documentation.
    2. This part adds a security definition to the Swagger documentation. In this case, 
-      it defines how to use a Bearer token for authorization. It specifies that the token should be provided in the “Authorization” header with a format of “JWT.” It specifies a description that will be visible in the swagger documentation.
+      it defines how to use a Bearer token for authorization. It specifies that the token should be provided in the â€œAuthorizationâ€ header with a format of â€œJWT.â€ It specifies a description that will be visible in the swagger documentation.
    3. This part specifies the security requirements for your API endpoints. 
-      It states that the “Bearer” security scheme is required for all API endpoints. 
-      This informs the user that you have to use “Bearer” keyword before providing the token in order to authenticate the user.
+      It states that the â€œBearerâ€ security scheme is required for all API endpoints. 
+      This informs the user that you have to use â€œBearerâ€ keyword before providing the token in order to authenticate the user.
