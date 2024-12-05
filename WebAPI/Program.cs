@@ -95,6 +95,8 @@ builder.Services.AddAuthentication(options =>
         ValidateIssuer = false,
         ValidateAudience = false
     };
+
+ var test =   o.TokenValidationParameters.IssuerSigningKey;
 });
 // Claude  [12/3/24]: End.
 

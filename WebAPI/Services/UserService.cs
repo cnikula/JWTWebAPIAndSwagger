@@ -35,6 +35,8 @@ namespace WebAPI.Services
 
         /// <summary>
         /// Create a new List of User
+        /// Here is where you can Retrieve the user information from the database
+        /// Or it will be provided by the front end application.
         /// </summary>
         private List<UserModel> users = new List<UserModel>
         {
