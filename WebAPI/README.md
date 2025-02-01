@@ -2,7 +2,6 @@
 Simple JWT Authentication using ASP.NET Core Web API (.NET 8)
 
 DEC 3, 2024
-Example by https://medium.com/@meghnav274/simple-jwt-authentication-using-asp-net-core-api-5d04b496d27b
 Simple JWT Authentication using ASP.NET Core Web API
 
 JWT Decodeder online tool at https://jwt.io/
