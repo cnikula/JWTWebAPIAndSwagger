@@ -1,7 +1,4 @@
 # JWT Web API And Swagger
-Simple JWT Authentication using ASP.NET Core Web API example
-
-# JWT Web API And Swagger
 Simple JWT Authentication using ASP.NET Core Web API (.NET 8)
 
 DEC 3, 2024
